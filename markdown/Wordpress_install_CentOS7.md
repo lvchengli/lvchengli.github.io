@@ -55,7 +55,7 @@ define('DB_PASSWORD', 'password');</code></pre>
 我们又要访问服务器IP端口了
 <pre><code>	http://server_domain_name_or_IP</code></pre>
 然后你会看到如下图片
-##这里应该有个图
+![wordpress_web_install](https://raw.githubusercontent.com/lvchengli/lvchengli.github.io/master/markdown/img/wordpress_web_install.png)
 然后你填入信息然后`Continue`,然后跟住图形界面进行各项设置，完成安装之后就可以愉快地使用了
 
 

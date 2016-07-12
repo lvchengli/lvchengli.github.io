@@ -8,7 +8,7 @@
 然后可以在浏览器输入服务器的IP访问
 <pre><code>http://your_server_IP_address/</code></pre>
 在服务器上可以看到如下图
-##此处应该有个图
+![default_apache](https://raw.githubusercontent.com/lvchengli/lvchengli.github.io/master/markdown/img/default_apache.png)
 之后，你需要让apache随服务器开机启动，然后输入
 <pre><code>sudo systemctl enable httpd.service</code></pre>
 ###安装MySQL (MariaDB)
@@ -47,5 +47,5 @@ sudo firewall-cmd --reload</code></pre>
 然后我们现在访问这个`info.php`文件
 <pre><code>http://your_server_IP_address/info.php</code></pre>
 然后我们可以看到如下图，证明环境搭建成功
-##此处应该有个图
+![default_php](https://raw.githubusercontent.com/lvchengli/lvchengli.github.io/master/markdown/img/default_php.png)
 如果这里没有出现这个图，证明出现了问题，建议你`Google一下`
