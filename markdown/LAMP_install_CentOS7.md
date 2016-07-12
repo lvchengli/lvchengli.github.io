@@ -1,4 +1,5 @@
 #How To Install Linux, Apache, MySQL, PHP (LAMP) stack On CentOS 7
+###参照以下链接翻译总结：https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-7
 ##LAMP ---> Linux + Apache + MySQL + PHP
 ###安装apache
 我们在CentOS上面安装程序需要用到 `yum install xxx` 进行安装，首先我们输入以下代码

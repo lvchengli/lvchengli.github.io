@@ -1,4 +1,7 @@
 #How To Install Wordpress On CentOS 7
+
+###参照以下链接翻译总结：https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-centos-7
+
 ##Attention
 首先我默认你已经安装了LAMP架构了，如果没有安装请先安装LAMP
 
