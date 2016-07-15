@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+    div {
+    	position: relative;
+    height: 375px;
+    width: 587px;
+    
+    background: url(11.png);
+    }
+    div:after {
+        content: '';
+        width: 0;
+        height: 0;
+        border-right: 30px solid white;
+        border-top: 15px solid transparent;
+        border-bottom: 15px solid transparent;
+        position: absolute;
+        right: -15px;
+        top: 50%;
+        transform: translateX(-50%);
+    }
+    </style>
+</head>
+
+<body>
+<div></div>
+    
+</body>
+
+</html>

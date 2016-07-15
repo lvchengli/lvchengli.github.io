@@ -1,0 +1,23 @@
+#section-3{
+	height:605px;
+	width: 100%;
+	padding-top: 100px;	
+	padding-left: 10%;
+	padding-right: 10%;
+	display: inline-block;	
+	text-align: center;
+	font-family: "微软雅黑";
+}
+#section-3 div{
+	padding: 20px;
+	width: 25%;
+	float: left;
+	font-size: 16px;
+	line-height: 24px;
+}
+#section-3 div p{
+	color: rgb(130, 130, 129);
+}
+.shanghai{
+	/*letter-spacing: 19px;*/
+}
